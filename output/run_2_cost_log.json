@@ -1,0 +1,14 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "total_route_weeks_evaluated": 728,
+  "anomalies_flagged_for_rag": 24,
+  "llm_calls": 16,
+  "input_tokens": 9857,
+  "output_tokens": 1475,
+  "total_tokens": 11332,
+  "published_rate_per_1m_tokens_usd": {
+    "input": 0.2,
+    "output": 0.6
+  },
+  "estimated_total_cost_usd": 0.002856
+}
